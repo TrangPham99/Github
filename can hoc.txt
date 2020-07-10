@@ -1,0 +1,7 @@
+GIT (gitignore)
+
+Sourcetree
+
+Bitbucket
+
+SSH key
